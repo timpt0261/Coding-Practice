@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"id": "shell,make execute --file=c:\\Users\\rchav\\.vscode\\extensions\\franneck94.c-cpp-runner-1.3.0\\templates\\Makefile --directory=FILE_DIR --quiet COMPILATION_MODE=Debug EXECUTABLE_NAME=outDebug.exe LANGUAGE_MODE=Cpp,",
+			"problemMatcher": [
+				"$gcc"
+			],
+			"label": "C_Cpp_Runner: Run: Coding Practice"
+		}
+	]
+}
