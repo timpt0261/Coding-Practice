@@ -3,8 +3,6 @@
 //randstate.h
 
 #include <stdlib.h>
-#include <stdint.h>
-#include <gmp.h>
 
 #include "randstate.h"
 
