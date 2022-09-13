@@ -69,9 +69,10 @@ $./sorting -a -n 10 -p 20 *Case the number of elements are greater than the arra
 Data
 
 For Small Arrays
-small.pdf
+![small.pdf](https://github.com/timpt0261/Coding-Practice/files/9553833/small.pdf)
+
 
 
 For Large Arrays
-large.pdf
+![large.pdf](https://github.com/timpt0261/Coding-Practice/files/9553834/large.pdf)
 
