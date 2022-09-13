@@ -69,8 +69,8 @@ $./sorting -a -n 10 -p 20 *Case the number of elements are greater than the arra
 Data
 
 For Small Arrays
-![](https://github.com/timpt0261/Coding-Practice/blob/master/rtchavez/asgn3/small.pdf)
+![small_graph](https://github.com/timpt0261/Coding-Practice/blob/master/rtchavez/asgn3/small.pdf)
 
 For Large Arrays
-![](https://github.com/timpt0261/Coding-Practice/blob/master/rtchavez/asgn3/large.pdf)
+![large_graph](https://github.com/timpt0261/Coding-Practice/blob/master/rtchavez/asgn3/large.pdf)
 
