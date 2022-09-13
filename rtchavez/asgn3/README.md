@@ -69,10 +69,12 @@ $./sorting -a -n 10 -p 20 *Case the number of elements are greater than the arra
 Data
 
 For Small Arrays
-![small.pdf](https://github.com/timpt0261/Coding-Practice/files/9553833/small.pdf)
+`![small.pdf](https://github.com/timpt0261/Coding-Practice/blob/master/rtchavez/asgn3/small.pdf)
 
 
 
 For Large Arrays
-![large.pdf](https://github.com/timpt0261/Coding-Practice/files/9553834/large.pdf)
+`![large.pdf](https://github.com/timpt0261/Coding-Practice/blob/master/rtchavez/asgn3/large.pdf)
+
+Both Datsets were created through GNU to take in the account the number of *Moves* it took for eithier algorthims to arrange the number of elements in a Array of varrying, but increasing sizes
 
