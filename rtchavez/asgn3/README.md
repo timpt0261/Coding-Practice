@@ -66,3 +66,11 @@ $./sorting -a -n 10 -p 5 *Only 5 elements will be printed from the array of ten 
 $./sorting -a -n 10 -p 20 *Case the number of elements are greater than the array's length
                             it will print entire set*
 ```
+Data
+
+For Small Arrays
+![image info](rtchavez/asgn3/small.pdf)
+
+For Large Arrays
+![image info](rtchavez/asgn3/large.pdf)
+
